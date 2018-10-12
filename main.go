@@ -7,6 +7,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/golang/protobuf/proto"
 	_ "github.com/grpc-ecosystem/grpc-gateway/runtime"
+	_ "github.com/koding/multiconfig"
 	_ "github.com/pkg/errors"
 	_ "github.com/spf13/pflag"
 	_ "github.com/yuin/gopher-lua"
