@@ -21,6 +21,7 @@ require (
 	github.com/gin-gonic/gin v1.3.0
 	github.com/go-gorp/gorp v2.0.0+incompatible // indirect
 	github.com/go-sql-driver/mysql v1.4.0
+	github.com/gocraft/dbr v0.0.0-20181008142427-1b05c0fc4640
 	github.com/gogo/protobuf v1.1.1 // indirect
 	github.com/golang/groupcache v0.0.0-20180924190550-6f2cf27854a4 // indirect
 	github.com/golang/protobuf v1.2.0

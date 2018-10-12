@@ -6,6 +6,7 @@ import (
 	_ "github.com/fatih/structs"
 	_ "github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
+	_ "github.com/gocraft/dbr"
 	_ "github.com/golang/protobuf/proto"
 	_ "github.com/grpc-ecosystem/grpc-gateway/runtime"
 	_ "github.com/koding/multiconfig"
