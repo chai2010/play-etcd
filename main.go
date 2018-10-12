@@ -5,6 +5,7 @@ import (
 	_ "github.com/dgraph-io/badger"
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/golang/protobuf/proto"
+	_ "github.com/pkg/errors"
 	_ "github.com/yuin/gopher-lua"
 	_ "golang.org/x/crypto/bcrypt"
 	_ "golang.org/x/image/bmp"
