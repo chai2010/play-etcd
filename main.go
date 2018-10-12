@@ -8,6 +8,7 @@ import (
 	_ "github.com/golang/protobuf/proto"
 	_ "github.com/grpc-ecosystem/grpc-gateway/runtime"
 	_ "github.com/pkg/errors"
+	_ "github.com/spf13/pflag"
 	_ "github.com/yuin/gopher-lua"
 	_ "golang.org/x/crypto/bcrypt"
 	_ "golang.org/x/image/bmp"
