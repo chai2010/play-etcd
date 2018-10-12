@@ -1,6 +1,7 @@
 module github.com/chai2010/play-etcd
 
 require (
+	github.com/chai2010/assert v1.0.1
 	github.com/coreos/bbolt v1.3.0 // indirect
 	github.com/coreos/etcd v3.3.10+incompatible
 	github.com/coreos/go-semver v0.2.0 // indirect

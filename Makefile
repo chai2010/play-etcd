@@ -3,6 +3,12 @@ default:
 build:
 	HTTPS_PROXY=socks5://127.0.0.1:2080 go build -o a.out
 
+update:
+	HTTPS_PROXY=socks5://127.0.0.1:2080 go get -u
+
+update-patch:
+	HTTPS_PROXY=socks5://127.0.0.1:2080 go get -u=patch
+
 test:
 	HTTPS_PROXY=socks5://127.0.0.1:2080 go test
 
