@@ -10,6 +10,7 @@ import (
 	_ "golang.org/x/image/bmp"
 	_ "golang.org/x/net/proxy"
 	_ "golang.org/x/text"
+	_ "golang.org/x/tools/godoc/vfs"
 	_ "google.golang.org/grpc"
 	_ "gopkg.in/gorp.v2"
 )
