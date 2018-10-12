@@ -4,6 +4,7 @@ import (
 	_ "github.com/coreos/etcd/clientv3"
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/golang/protobuf/proto"
+	_ "github.com/yuin/gopher-lua"
 	_ "golang.org/x/crypto/bcrypt"
 	_ "golang.org/x/image/bmp"
 	_ "golang.org/x/net/proxy"
