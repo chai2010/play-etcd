@@ -24,8 +24,10 @@ require (
 	github.com/ugorji/go/codec v0.0.0-20180927125128-99ea80c8b19a // indirect
 	github.com/xiang90/probing v0.0.0-20160813154853-07dd2e8dfe18 // indirect
 	go.uber.org/zap v1.9.1 // indirect
-	golang.org/x/crypto v0.0.0-20181009213950-7c1a557ab941 // indirect
+	golang.org/x/crypto v0.0.0-20181009213950-7c1a557ab941
+	golang.org/x/image v0.0.0-20180926015637-991ec62608f3
 	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1 // indirect
+	golang.org/x/text v0.3.0
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	google.golang.org/grpc v1.15.0
 	gopkg.in/gorp.v2 v2.0.0
