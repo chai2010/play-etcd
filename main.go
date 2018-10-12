@@ -12,6 +12,7 @@ import (
 	_ "golang.org/x/crypto/bcrypt"
 	_ "golang.org/x/image/bmp"
 	_ "golang.org/x/net/proxy"
+	_ "golang.org/x/oauth2"
 	_ "golang.org/x/text"
 	_ "golang.org/x/tools/godoc/vfs"
 	_ "google.golang.org/grpc"

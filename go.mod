@@ -50,6 +50,7 @@ require (
 	golang.org/x/crypto v0.0.0-20181009213950-7c1a557ab941
 	golang.org/x/image v0.0.0-20180926015637-991ec62608f3
 	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1
+	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 	golang.org/x/text v0.3.0
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	golang.org/x/tools v0.0.0-20180828015842-6cd1fcedba52
