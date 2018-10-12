@@ -8,6 +8,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/gocraft/dbr"
 	_ "github.com/golang/protobuf/proto"
+	_ "github.com/google/gops/agent"
 	_ "github.com/grpc-ecosystem/grpc-gateway/runtime"
 	_ "github.com/koding/multiconfig"
 	_ "github.com/pkg/errors"
