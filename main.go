@@ -6,6 +6,7 @@ import (
 	_ "github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/golang/protobuf/proto"
+	_ "github.com/grpc-ecosystem/grpc-gateway/runtime"
 	_ "github.com/pkg/errors"
 	_ "github.com/yuin/gopher-lua"
 	_ "golang.org/x/crypto/bcrypt"
