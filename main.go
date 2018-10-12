@@ -3,6 +3,7 @@ package main
 import (
 	_ "github.com/coreos/etcd/clientv3"
 	_ "github.com/dgraph-io/badger"
+	_ "github.com/fatih/structs"
 	_ "github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/golang/protobuf/proto"
