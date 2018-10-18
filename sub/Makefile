@@ -24,9 +24,6 @@ verify:
 vendor:
 	HTTPS_PROXY=socks5://127.0.0.1:2080 go mod tidy && go mod vendor
 
-upgrade:
-	go get -u && go mod tidy
-
 graph:
 	HTTPS_PROXY=socks5://127.0.0.1:2080 go mod graph
 
